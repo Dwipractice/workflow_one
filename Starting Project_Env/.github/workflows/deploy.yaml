@@ -39,3 +39,4 @@ jobs:
       run: |
         echo "${{env.MONGODB_DB_NAME}}"
         echo "${{env.MONGODB_USERNAME}}"
+        echo "Done"
